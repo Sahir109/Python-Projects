@@ -1,6 +1,4 @@
-# Python program to convert
-# text to speech
-
+# Robo Code in Python
 # import the required module from text to speech conversion
 import win32com.client
 
@@ -15,7 +13,6 @@ while(True):
         speaker.Speak(f"Good Bye it was nice talking to you")
         break
     speaker.Speak(f"{s}")
-
 
 # To stop the program press
 # CTRL + Z
