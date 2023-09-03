@@ -14,5 +14,4 @@ while(True):
         break
     speaker.Speak(f"{s}")
 
-# To stop the program press
-# CTRL + Z
+# To stop the program Enter q
